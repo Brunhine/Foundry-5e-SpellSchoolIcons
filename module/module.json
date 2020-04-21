@@ -1,0 +1,10 @@
+{
+    "name": "5e-spell-school-icons",
+    "title": "Spell School Icons",
+    "description": "Module that adds a new default icon to spells based off their school",
+    "author": "Brunhine",
+    "version": "0.01",
+    "minimumCoreVersion": "0.5.5",
+    "systems": ["dnd5e"],
+    "scripts": ["schoolIcons.js"]
+}
